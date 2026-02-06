@@ -74,7 +74,7 @@ const Layout:  FC<LayoutProps> = ({mainContent, sidePanelContent, miniSidePanelS
 
   return <>
     <ResponsiveHeader
-      title="Pasión por la información geográfica"
+      title="JAPON"
       logo={<LogoHorizontalNegativo width="100%"/>}
       onStartIconClick={widescreen ? undefined : handleClose}
       isStartIconCloseable={isSidePanelOpen}
