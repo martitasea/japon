@@ -1,0 +1,8 @@
+{
+  "baseMapStyle": "Base Map Style",
+  "404": {
+    "goHome": "Go Home",
+    "pageNotFound": "Pae not found",
+    "pageNotFoundMessage": "Sorry, the page you're looking for doesn't exist or has been moved."
+  }
+}

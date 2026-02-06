@@ -1,0 +1,9 @@
+{
+  "baseMapStyle": "Estilo Mapa Base",
+  "404": {
+    "goHome": "Volver al inicio",
+    "pageNotFound": "Página no encontrada",
+    "pageNotFoundMessage": "Lo sentimos, la página que buscas no existe o ha sido movida."
+  }
+}
+
