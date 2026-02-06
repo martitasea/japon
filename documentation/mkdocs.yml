@@ -1,0 +1,13 @@
+site_name: Documentación
+site_author: geomatico
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: "Modo claro"
+nav:
+  - Inicio: index.md
